@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最大公约数和最小公倍数", "最大公约数和最小公倍数\最大公约数和最小公倍数.vcxproj", "{83ECE00E-85EF-40DA-A00E-D38857923B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Debug|x64.ActiveCfg = Debug|x64
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Debug|x64.Build.0 = Debug|x64
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Debug|x86.ActiveCfg = Debug|Win32
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Debug|x86.Build.0 = Debug|Win32
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Release|x64.ActiveCfg = Release|x64
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Release|x64.Build.0 = Release|x64
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Release|x86.ActiveCfg = Release|Win32
+		{83ECE00E-85EF-40DA-A00E-D38857923B91}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6302DA0-444A-49C8-98C3-0671783F5D6C}
+	EndGlobalSection
+EndGlobal
