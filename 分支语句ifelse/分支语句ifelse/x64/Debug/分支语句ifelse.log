@@ -1,0 +1,4 @@
+﻿  分支语句ifelse.c
+E:\项目\分支语句ifelse\分支语句ifelse\分支语句ifelse.c(9,32): warning C4047: “<”:“int *”与“int”的间接级别不同
+E:\项目\分支语句ifelse\分支语句ifelse\分支语句ifelse.c(9,32): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  分支语句ifelse.vcxproj -> E:\项目\分支语句ifelse\x64\Debug\分支语句ifelse.exe
