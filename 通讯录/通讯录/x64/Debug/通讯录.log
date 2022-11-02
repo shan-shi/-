@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+E:\c语言项目\b站学习\通讯录\通讯录\test.c(26,19): warning C4101: “node”: 未引用的局部变量
+  正在生成代码...
+  通讯录.vcxproj -> E:\c语言项目\b站学习\通讯录\x64\Debug\通讯录.exe
