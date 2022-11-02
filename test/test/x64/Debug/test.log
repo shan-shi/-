@@ -1,0 +1,4 @@
+﻿  源.c
+E:\c语言项目\大课\test\test\源.c(8,34): warning C4305: “-=”: 从“double”到“float”截断
+E:\c语言项目\大课\test\test\源.c(9,36): warning C4305: “+=”: 从“double”到“float”截断
+  test.vcxproj -> E:\c语言项目\大课\test\x64\Debug\test.exe
